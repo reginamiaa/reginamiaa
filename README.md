@@ -67,7 +67,7 @@
 
 | No. | Area | Project Focus |
 | :--- | :--- | :--- |
-| `01` | **Accounting** | Automated Financial Reporting |
+| `01` | **Accounting** | **[Automated Financial Reporting](https://github.com/reginamiaa/accounting-financial-reporting)** |
 | `02` | **Finance** | Financial Performance Analysis |
 | `03` | **Data Analytics** | Exploratory Data Analysis |
 | `04` | **Business Intelligence** | Interactive KPI Dashboard |
