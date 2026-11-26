@@ -1,78 +1,102 @@
+<div align="center">
+  <img src="./assets/banner.svg" alt="Regina Mia Dian Cahyani — Accounting, Finance, Data Analytics & Research" width="100%" />
+</div>
 
-# Regina Mia Dian Cahyani
+<br />
 
-### Accounting | Finance | Data Analytics | Business Intelligence | Research
+<div align="center">
+  <a href="https://reginamiaa.github.io">
+    <img src="https://img.shields.io/badge/GITHUB_PAGES-PORTFOLIO-09090B?style=for-the-badge&labelColor=09090B&color=C5A059" alt="GitHub Pages Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/reginamiadiancahyani888">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-09090B?style=for-the-badge&labelColor=09090B&color=C5A059" alt="LinkedIn" />
+  </a>
+  <a href="https://reginamiabpvp.academia.edu/">
+    <img src="https://img.shields.io/badge/ACADEMIA.EDU-RESEARCH-09090B?style=for-the-badge&labelColor=09090B&color=C5A059" alt="Academia.edu" />
+  </a>
+  <a href="https://sites.google.com/view/reginamiaa8888">
+    <img src="https://img.shields.io/badge/GOOGLE_SITES-ARCHIVE-09090B?style=for-the-badge&labelColor=09090B&color=C5A059" alt="Portfolio Archive" />
+  </a>
+  <a href="mailto:reginamiaindonesia@gmail.com">
+    <img src="https://img.shields.io/badge/CORRESPONDENCE-EMAIL-09090B?style=for-the-badge&labelColor=09090B&color=C5A059" alt="Email" />
+  </a>
+</div>
 
-Welcome to my professional portfolio.
+<br />
 
-I am an Accounting graduate with an interest in financial analysis, business intelligence, data analytics, and multidisciplinary business research.
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
-My goal is to combine accounting knowledge, analytical thinking, and technology to transform data into meaningful business insights and support evidence-based decision-making.
+### I. The Ethos
 
----
+> *"Combining accounting knowledge, analytical thinking, and technology to transform data into meaningful business insights and support evidence-based decision-making."*
 
-## Professional Interests
+- **Background:** Accounting Graduate (*she/her*) based in **Indonesia (`UTC +07:00`)**
+- **Focus:** Financial Analysis, Business Intelligence, Data Analytics & Multidisciplinary Business Research
+- **Personal Website:** [reginamiaa.github.io](https://reginamiaa.github.io) &middot; [about.me/reginamiadiancahyani](https://about.me/reginamiadiancahyani)
 
-- Accounting & Financial Reporting
-- Financial Analysis & Financial Modeling
-- Data Analytics & Business Intelligence
-- Human Resources Analytics
-- Business Performance & Strategic Analysis
-- Applied Research & Statistical Analysis
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
-## Education
+### II. Professional Interests &amp; Competencies
 
-**Bachelor's Degree in Accounting**
+| Pillar | Scope &amp; Focus |
+| :--- | :--- |
+| **Professional Interests** | Accounting &amp; Financial Reporting &middot; Financial Analysis &amp; Modeling &middot; Data Analytics &amp; Business Intelligence &middot; Human Resources Analytics &middot; Business Performance &amp; Strategic Analysis &middot; Applied Research &amp; Statistical Analysis |
+| **Current Working Skills** | Microsoft Excel &middot; Microsoft Office &middot; Spreadsheet Management &middot; Basic Financial &amp; Accounting Analysis |
+| **Developing Competencies** | SQL &middot; Python &middot; Power BI &middot; Statistical Analysis &middot; Data Visualization &middot; Business Intelligence |
+| **Working Principles** | Evidence-based analysis &middot; Data accuracy &amp; validation &middot; Transparent methodology &middot; Reproducible workflows &middot; Ethical data management &middot; Continuous professional development |
 
-Institut Teknologi Bisnis AAS Indonesia  
-2017 – 2021 | GPA: 3.52 / 4.00 | Cum Laude
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
-## Technical Skills
+### III. Academic Dossier
 
-**Current working skills**
-- Microsoft Excel
-- Microsoft Office
-- Spreadsheet Management
-- Basic Financial and Accounting Analysis
+| Period | Credential &amp; Institution | Distinction |
+| :--- | :--- | :--- |
+| **2017 &ndash; 2021** | **Bachelor&rsquo;s Degree in Accounting** &mdash; *Institut Teknologi Bisnis AAS Indonesia* | **GPA: 3.52 / 4.00 &middot; Cum Laude** |
 
-**Developing competencies**
-- SQL
-- Python
-- Power BI
-- Statistical Analysis
-- Data Visualization
-- Business Intelligence
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
-## Featured Portfolio Projects
+### IV. Featured Portfolio Works
 
-| Area | Project Focus |
-|---|---|
-| Accounting | Automated Financial Reporting |
-| Finance | Financial Performance Analysis |
-| Data Analytics | Exploratory Data Analysis |
-| Business Intelligence | Interactive KPI Dashboard |
-| HR Analytics | Payroll & Workforce Analysis |
-| Research | Reproducible Business Research |
+| No. | Area | Project Focus |
+| :--- | :--- | :--- |
+| `01` | **Accounting** | Automated Financial Reporting |
+| `02` | **Finance** | Financial Performance Analysis |
+| `03` | **Data Analytics** | Exploratory Data Analysis |
+| `04` | **Business Intelligence** | Interactive KPI Dashboard |
+| `05` | **HR Analytics** | Payroll &amp; Workforce Analysis |
+| `06` | **Research** | Reproducible Business Research |
 
 *Project repositories will include methodology, documentation, datasets, and reproducible results.*
 
-## Research & Working Principles
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
-- Evidence-based analysis
-- Data accuracy and validation
-- Transparent methodology
-- Reproducible workflows
-- Ethical data management
-- Continuous professional development
+### V. Telemetry
 
-## Connect With Me
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=reginamiaa&show_icons=true&bg_color=09090b&title_color=d4af37&text_color=e8e0d0&icon_color=c5a059&border_color=3b3018&hide_border=false"
+    alt="Regina Mia GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginamiaa&layout=compact&bg_color=09090b&title_color=d4af37&text_color=e8e0d0&border_color=3b3018&hide_border=false"
+    alt="Regina Mia Top Languages"
+    height="165"
+  />
+</div>
 
-- GitHub: https://github.com/reginamiaa
-- LinkedIn: https://www.linkedin.com/in/reginamiadiancahyani888
-- Portfolio: https://sites.google.com/view/reginamiaa8888
-- Academia.edu: https://reginamiabpvp.academia.edu/
+<br />
 
----
-
-*Building analytical capabilities through continuous learning,
-practical projects, and evidence-based research.*
+<div align="center">
+  <sub><em>Building analytical capabilities through continuous learning, practical projects, and evidence-based research.</em></sub>
+</div>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280" width="960" height="280" role="img" aria-label="Regina Mia Dian Cahyani — Old Money Black and Gold Banner">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8a6d33" />
+      <stop offset="30%" stop-color="#d4af37" />
+      <stop offset="50%" stop-color="#f0d78c" />
+      <stop offset="70%" stop-color="#d4af37" />
+      <stop offset="100%" stop-color="#8a6d33" />
+    </linearGradient>
+    <radialGradient id="ambient" cx="50%" cy="15%" r="65%">
+      <stop offset="0%" stop-color="#d4af37" stop-opacity="0.14" />
+      <stop offset="65%" stop-color="#09090b" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Obsidian Canvas -->
+  <rect width="960" height="280" fill="#08080a" />
+  <rect width="960" height="280" fill="url(#ambient)" />
+
+  <!-- Architectural Double Hairline Frame -->
+  <rect x="16" y="16" width="928" height="248" fill="none" stroke="url(#goldGrad)" stroke-width="1" opacity="0.65" />
+  <rect x="24" y="24" width="912" height="232" fill="none" stroke="#c5a059" stroke-width="0.6" opacity="0.28" />
+
+  <!-- Corner Diamonds -->
+  <polygon points="16,12 20,16 16,20 12,16" fill="#d4af37" />
+  <polygon points="944,12 948,16 944,20 940,16" fill="#d4af37" />
+  <polygon points="16,260 20,264 16,268 12,264" fill="#d4af37" />
+  <polygon points="944,260 948,264 944,268 940,264" fill="#d4af37" />
+
+  <!-- Top Eyebrow -->
+  <line x1="255" y1="68" x2="340" y2="68" stroke="#c5a059" stroke-width="0.8" opacity="0.6" />
+  <text x="480" y="72" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="4" fill="#c5a059">
+    REGINAMIAA · FOLIO · MMXXVI
+  </text>
+  <line x1="620" y1="68" x2="705" y2="68" stroke="#c5a059" stroke-width="0.8" opacity="0.6" />
+
+  <!-- Display Name -->
+  <text x="480" y="138" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="400" letter-spacing="3" fill="#f4efe6">
+    REGINA MIA DIAN CAHYANI
+  </text>
+
+  <!-- Subtitle / Tagline -->
+  <text x="480" y="180" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" letter-spacing="1.1" fill="#e6c97a">
+    Clarity in Numbers. Precision in Insight.
+  </text>
+
+  <!-- Bottom Role & Location -->
+  <text x="480" y="224" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11.5" letter-spacing="3" fill="#9a9183">
+    ACCOUNTING  ·  FINANCE  ·  DATA ANALYTICS  ·  BUSINESS INTELLIGENCE  ·  RESEARCH
+  </text>
+</svg>
