@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="30" viewBox="0 0 152 30" role="img" aria-label="Portfolio Website">
+  <rect x="0.5" y="0.5" width="151" height="29" fill="#08080a" stroke="#c5a059" stroke-width="1" />
+  <rect x="82" y="1" width="69" height="28" fill="#c5a059" />
+  <text x="41" y="19" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="600" letter-spacing="1.1" fill="#f4efe6">PORTFOLIO</text>
+  <text x="116.5" y="19" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.1" fill="#08080a">WEBSITE</text>
+</svg>

@@ -6,19 +6,19 @@
 
 <div align="center">
   <a href="https://reginamiaa.github.io">
-    <img src="https://img.shields.io/badge/GITHUB_PAGES-PORTFOLIO-09090B?style=for-the-badge&labelColor=09090B&color=C5A059" alt="GitHub Pages Portfolio" />
+    <img src="./assets/btn-portfolio.svg" alt="Portfolio Website" />
   </a>
   <a href="https://www.linkedin.com/in/reginamiadiancahyani888">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-09090B?style=for-the-badge&labelColor=09090B&color=C5A059" alt="LinkedIn" />
+    <img src="./assets/btn-linkedin.svg" alt="LinkedIn" />
   </a>
   <a href="https://reginamiabpvp.academia.edu/">
-    <img src="https://img.shields.io/badge/ACADEMIA.EDU-RESEARCH-09090B?style=for-the-badge&labelColor=09090B&color=C5A059" alt="Academia.edu" />
+    <img src="./assets/btn-academia.svg" alt="Academia.edu" />
   </a>
   <a href="https://sites.google.com/view/reginamiaa8888">
-    <img src="https://img.shields.io/badge/GOOGLE_SITES-ARCHIVE-09090B?style=for-the-badge&labelColor=09090B&color=C5A059" alt="Portfolio Archive" />
+    <img src="./assets/btn-archive.svg" alt="Portfolio Archive" />
   </a>
   <a href="mailto:reginamiaindonesia@gmail.com">
-    <img src="https://img.shields.io/badge/CORRESPONDENCE-EMAIL-09090B?style=for-the-badge&labelColor=09090B&color=C5A059" alt="Email" />
+    <img src="./assets/btn-email.svg" alt="Email" />
   </a>
 </div>
 
